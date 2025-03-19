@@ -50,7 +50,7 @@ To start the development server, run:
 symfony server:start
 ``` 
 
-## All routes
+## All routes 
 ```
 /
 /register
